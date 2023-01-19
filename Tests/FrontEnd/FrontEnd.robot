@@ -6,7 +6,7 @@ Test Setup          Begin Web Test
 Test Teardown       End Web Test
 
 *** Variables ***
-${BROWSER} =    chrome
+${BROWSER} =    firefox
 ${URL} =        https://magento.softwaretestingboard.com/
 
 *** Test Cases ***
